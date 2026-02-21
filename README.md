@@ -40,20 +40,14 @@ All project artifacts are included in the Google Drive Folder linked below:
 </div>
 
 The drive folder contains 10 key documents:
-
-### Strategic Planning
 - **Project Charter** - Scope, goals, success criteria
 - **OKRs** - Measurable objectives and key results  
 - **Budget** ($100K) - Complete financial breakdown
-
-### Execution Planning
 - **Work Breakdown Structure (WBS)** - Task hierarchy
 - **Gantt Chart** - 7-month visual timeline
 - **RACI Matrix** - Responsibility assignments
 - **Project Schedule** - Weekly activity tracker
 - **Communications Plan** - Stakeholder engagement strategy
-
-### Risk & Stakeholder Management
 - **Stakeholder Analysis** - Power-interest mapping
 - **Risk Management Plan** - Identification and mitigation
 
