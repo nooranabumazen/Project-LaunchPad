@@ -33,7 +33,11 @@ Sneak peak for 2 possible logo designs! Which do you like better?
 
 All project artifacts are included in the Google Drive Folder linked below:
 
-https://drive.google.com/drive/folders/1uiqJf9bUmyXyohakT8miAA8bT4c2O3YD?usp=sharing
+<div align="center">
+  <a href="https://drive.google.com/drive/folders/1uiqJf9bUmyXyohakT8miAA8bT4c2O3YD?usp=sharing">
+    <img src="https://img.shields.io/badge/Google_Drive-View_All_Files-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Project Files"/>
+  </a>
+</div>
 
 ### Strategic Planning
 - **Project Charter** - Scope, goals, success criteria
