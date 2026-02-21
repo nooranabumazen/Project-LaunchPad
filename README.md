@@ -9,6 +9,22 @@
 
 </div>
 
+---
+
+## 💡 Why This Project?
+
+Growing up, I watched too many bright, talented peers squeeze themselves into narrow career boxes - doctor, lawyer, engineer - not because these paths truly excited them, but because they simply didn't know what else was out there. I saw friends switch majors three times in university, classmates burn out in careers they never really chose, and young people paralyzed by the pressure to pick "the right path" without ever being shown the full map.
+
+**LaunchPad was born from a simple belief:** every young person deserves the chance to explore, experiment, and discover what truly ignites their passion before committing years of their life to a single direction.
+
+This isn't just a hypothetical exercise or a class assignment - this is a program I'm genuinely building to launch in my community. While completing the Google Project Management Certificate, I chose to apply every framework, tool, and methodology I learned to something I deeply care about: creating accessible, transformative educational experiences for youth.
+
+I've spent years in project coordination roles - from managing multicultural festivals and community gardens during my graduate studies, to coordinating research projects that resulted in first-author publications. What I've learned is that the most impactful projects are the ones that solve real problems for real people. LaunchPad combines my passion for education, my belief in equitable access to opportunities, and my love for bringing complex initiatives from vision to reality.
+
+**This repository represents more than project management documentation.** It showcases my ability to take initiative, think strategically about social impact, and execute end-to-end program development with the same rigor I'd bring to any organizational priority. Because if I can design, budget, and plan a $100K youth program from scratch, imagine what I can do as part of your team.
+
+---
+
 ## 📋 Project Overview
 
 **LaunchPad** is a comprehensive youth career exploration program designed to expose participants aged 13-18 to diverse career pathways beyond traditional options. The program combines experiential learning, professional mentorship, and skills-based workshops to build confidence in career decision-making.
@@ -49,7 +65,7 @@ To empower youth participants with the knowledge, experiences, and confidence ne
 
 ## 📊 Project Management Framework
 
-This project was developed as part of the **Google Project Management Certificate** program, applying industry-standard methodologies and best practices.
+**This is an original project concept** that I'm actively planning to launch. I've applied industry-standard project management methodologies learned through the Google Project Management Certificate to bring this vision to life.
 
 ### Core PM Methodologies Applied
 - ✅ **Waterfall Planning** for curriculum development and stakeholder management
@@ -60,7 +76,7 @@ This project was developed as part of the **Google Project Management Certificat
 ### Project Management Triangle
 - **Scope:** 8-10 workshop modules, 15+ partnerships, 25-30 participants
 - **Time:** 7-month timeline (3 months prep, 3 months delivery, 1 month evaluation)
-- **Cost:** $85,000 total budget with 10% contingency reserve
+- **Cost:** $100,000 total budget with 10% contingency reserve
 
 ---
 
@@ -71,7 +87,7 @@ This project was developed as part of the **Google Project Management Certificat
 |----------|---------|
 | **Project Charter** | Defines project scope, goals, and stakeholders |
 | **OKRs** | Measurable objectives and key results |
-| **Budget Proposal** | Detailed financial planning ($85K) |
+| **Budget Proposal** | Detailed financial planning ($100K) |
 
 ### Execution & Control Documents
 | Document | Purpose |
@@ -170,22 +186,22 @@ Developer  Engagement Placement  Coord   Facilitators
 
 ## 💰 Budget & Resource Allocation
 
-**Total Budget:** $85,000
+**Total Budget:** $100,000
 
 ### Budget Breakdown by Category
 
 | Category | Amount | % of Total |
 |----------|--------|------------|
-| **Program Development** | $17,600 | 21% |
-| **Partnership Development** | $21,800 | 26% |
-| **Participant Recruitment** | $8,750 | 10% |
-| **Pre-Program Setup** | $5,070 | 6% |
-| **Workshop Delivery** | $11,250 | 13% |
-| **Career Conversations** | $7,000 | 8% |
-| **Hands-on Experiences** | $8,250 | 10% |
-| **Evaluation** | $8,550 | 10% |
+| **Program Development** | $17,600 | 18% |
+| **Partnership Development** | $21,800 | 22% |
+| **Participant Recruitment** | $8,750 | 9% |
+| **Pre-Program Setup** | $5,070 | 5% |
+| **Workshop Delivery** | $11,250 | 11% |
+| **Career Conversations** | $7,000 | 7% |
+| **Hands-on Experiences** | $8,250 | 8% |
+| **Evaluation** | $8,550 | 9% |
 | **Technology/Software** | $830 | 1% |
-| **Reserve Buffer (10%)** | $7,900 | 9% |
+| **Reserve Buffer (10%)** | $10,900 | 11% |
 
 ### Resource Optimization Strategies
 - Leveraging partnerships for in-kind venue donations
@@ -249,7 +265,9 @@ This project showcases proficiency in:
 
 ## 📚 Learning Journey
 
-This project was developed as part of the **Google Project Management Professional Certificate** program. The coursework covered:
+**Important Note:** Project LaunchPad is my original concept and initiative - a program I'm actively developing to launch in my community. While the Google Project Management Professional Certificate provided the frameworks and tools I applied to this project, the idea, vision, and execution plan are entirely my own.
+
+The Google PM Certificate coursework covered:
 
 1. ✅ **Foundations of Project Management**
    - Project lifecycle, methodologies, organizational structures
@@ -267,13 +285,14 @@ This project was developed as part of the **Google Project Management Profession
    - Scrum, Kanban, iterative development
    
 6. ✅ **Capstone: Applying Project Management**
-   - Real-world application of all learned concepts
+   - Real-world application of all learned concepts (different project)
 
-### Key Takeaways
+### Key Takeaways Applied to LaunchPad
 - Importance of stakeholder buy-in early in project lifecycle
 - Value of comprehensive documentation for accountability
 - Balance between rigorous planning and adaptive execution
 - Power of data visualization in communicating project status
+- Strategic alignment between project goals and broader mission
 
 ---
 
