@@ -22,6 +22,12 @@ This isn't a hypothetical project for a class, it's a program I'm building to la
 **This repository showcases the complete project documentation** - every charter, budget, timeline, and stakeholder analysis I'd use to launch this initiative. It demonstrates my ability to take an idea from concept to executable plan, combining my passion for education with rigorous project management. The files in this repo (linked below) represent the level of strategic thinking and detailed planning I bring to any initiative.
 
 ---
+Sneak peak for 2 possible logo designs! Which do you like better?
+
+<div align="center">
+  <img src="LaunchPad logo1.png" alt="LaunchPad Logo Option 1" width="250"/>
+  <img src="LaunchPad logo2.png" alt="LaunchPad Logo Option 2" width="250"/>
+</div>
 
 ## 📁 Complete Project Documentation
 
