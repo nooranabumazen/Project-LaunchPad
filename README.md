@@ -39,6 +39,8 @@ All project artifacts are included in the Google Drive Folder linked below:
   </a>
 </div>
 
+The drive folder contains 10 key documents:
+
 ### Strategic Planning
 - **Project Charter** - Scope, goals, success criteria
 - **OKRs** - Measurable objectives and key results  
