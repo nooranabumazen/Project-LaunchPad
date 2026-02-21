@@ -13,15 +13,37 @@
 
 ## 💡 Why This Project?
 
-Growing up, I watched too many bright, talented peers squeeze themselves into narrow career boxes - doctor, lawyer, engineer - not because these paths truly excited them, but because they simply didn't know what else was out there. I saw friends switch majors three times in university, classmates burn out in careers they never really chose, and young people paralyzed by the pressure to pick "the right path" without ever being shown the full map.
+I finished my MSc in Bioinformatics at 25, published first-author research papers, and still had no idea what I actually wanted to do with my life. The technical skills? I had them. The "right" degree? Check. But I'd spent years in a field that never truly excited me, doing work I was good at but didn't love, because I didn't know what other options were out there when I started.
 
-**LaunchPad was born from a simple belief:** every young person deserves the chance to explore, experiment, and discover what truly ignites their passion before committing years of their life to a single direction.
+**LaunchPad exists because I wish someone had shown me the full map before I committed years to a single path.**
 
-This isn't just a hypothetical exercise or a class assignment - this is a program I'm genuinely building to launch in my community. While completing the Google Project Management Certificate, I chose to apply every framework, tool, and methodology I learned to something I deeply care about: creating accessible, transformative educational experiences for youth.
+This isn't a hypothetical project for a class, it's a program I'm building to launch in my community. While completing the Google Project Management Certificate, I applied every framework and tool to something I genuinely care about: making sure the next generation of young people gets to explore, experiment, and discover what truly resonates with them before choosing a direction.
 
-I've spent years in project coordination roles - from managing multicultural festivals and community gardens during my graduate studies, to coordinating research projects that resulted in first-author publications. What I've learned is that the most impactful projects are the ones that solve real problems for real people. LaunchPad combines my passion for education, my belief in equitable access to opportunities, and my love for bringing complex initiatives from vision to reality.
+**This repository showcases the complete project documentation** - every charter, budget, timeline, and stakeholder analysis I'd use to launch this initiative. It demonstrates my ability to take an idea from concept to executable plan, combining my passion for education with rigorous project management. The files in this repo (linked below) represent the level of strategic thinking and detailed planning I bring to any initiative.
 
-**This repository represents more than project management documentation.** It showcases my ability to take initiative, think strategically about social impact, and execute end-to-end program development with the same rigor I'd bring to any organizational priority. Because if I can design, budget, and plan a $100K youth program from scratch, imagine what I can do as part of your team.
+---
+
+## 📁 Complete Project Documentation
+
+All project artifacts are included in the Google Drive Folder linked below:
+
+https://drive.google.com/drive/folders/1uiqJf9bUmyXyohakT8miAA8bT4c2O3YD?usp=sharing
+
+### Strategic Planning
+- **Project Charter** - Scope, goals, success criteria
+- **OKRs** - Measurable objectives and key results  
+- **Budget** ($100K) - Complete financial breakdown
+
+### Execution Planning
+- **Work Breakdown Structure (WBS)** - Task hierarchy
+- **Gantt Chart** - 7-month visual timeline
+- **RACI Matrix** - Responsibility assignments
+- **Project Schedule** - Weekly activity tracker
+- **Communications Plan** - Stakeholder engagement strategy
+
+### Risk & Stakeholder Management
+- **Stakeholder Analysis** - Power-interest mapping
+- **Risk Management Plan** - Identification and mitigation
 
 ---
 
@@ -108,13 +130,13 @@ To empower youth participants with the knowledge, experiences, and confidence ne
 
 ## 🏗️ Project Structure & Phases
 
-### Phase 1: Prep (Months 1-3) - January to March
+### Phase 1: Prep (Months 1-3) 
 **Focus:** Foundation building and partnership development
 
 **Key Deliverables:**
 - ✨ 8-10 comprehensive workshop modules
 - ✨ Self-assessment tools and activities
-- ✨ Partnership agreements with 8+ organizations
+- ✨ Partnership agreements with 10+ organizations
 - ✨ Professional mentor network (30+ contacts)
 - ✨ Marketing materials and participant recruitment
 - ✨ 25-30 selected participants
@@ -124,7 +146,7 @@ To empower youth participants with the knowledge, experiences, and confidence ne
 - Diverse industry representation in partnerships
 - Strong participant cohort selection
 
-### Phase 2: Program Delivery (Months 4-6) - April to June
+### Phase 2: Program Delivery (Months 4-6) 
 **Focus:** Hands-on learning and professional exposure
 
 **Key Deliverables:**
@@ -139,7 +161,7 @@ To empower youth participants with the knowledge, experiences, and confidence ne
 - 100% of participants complete 2+ assessments
 - 75%+ participate in hands-on experiences
 
-### Phase 3: Post Analysis (Month 7) - July to August
+### Phase 3: Post Analysis (Month 7)
 **Focus:** Evaluation and continuous improvement
 
 **Key Deliverables:**
@@ -311,27 +333,5 @@ The Google PM Certificate coursework covered:
 - Partnership expansion into emerging industries
 
 ---
-
-## 📞 Contact & Collaboration
-
-**Project Owner:** Nooran Abu Mazen  
-**Status:** Planning Phase (Draft)  
-**Timeline:** January 2026 - August 2026
-
----
-
-## 📄 License & Attribution
-
-This project documentation is shared for educational and professional development purposes. All project management frameworks and methodologies are based on industry best practices and Google Project Management Certificate learnings.
-
----
-
-<div align="center">
-
-**Built with** ❤️ **and project management best practices**
-
-![PM Skills](https://img.shields.io/badge/PM%20Skills-Advanced-success)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Mgmt-Expert-blue)
-![Budget Planning](https://img.shields.io/badge/Budget%20Planning-Proficient-orange)
 
 </div>
