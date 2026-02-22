@@ -13,7 +13,7 @@
 
 ## 💡 Why This Project?
 
-I finished my MSc in Bioinformatics at 25, published first-author research papers, and still had no idea what I actually wanted to do with my life. The technical skills? I had them. The "right" degree? Check. But I'd spent years in a field that never truly excited me, doing work I was good at but didn't love, because I didn't know what other options were out there when I started.
+I finished my MSc in Bioinformatics at 25, published first-author research papers, and still had no idea what I actually wanted to do with my life. I acquired tons of technical and soft skills, and ended up with two great degrees. But ultimately, I spent years in a field that never truly excited me, doing work I was good at but didn't love, because I didn't know what other options were out there when I started.
 
 **LaunchPad exists because I wish someone had shown me the full map before I committed years to a single path.**
 
