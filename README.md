@@ -188,11 +188,11 @@ To empower youth participants with the knowledge, experiences, and confidence ne
 
 ### Project Organization
 ```
-Executive Director / Board
-         ↓
-   Program Director (Project Lead)
-         ↓
-    ├─────────┬─────────┬─────────┬─────────┐
+             Executive Director / Board
+                        ↓
+           Program Director (Project Lead)
+                        ↓
+    ├─────────┬─────────├─────────┬─────────┐
     │         │         │         │         │
 Curriculum  Youth    Volunteer  Admin   Workshop
 Developer  Engagement Placement  Coord   Facilitators
