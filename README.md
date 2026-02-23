@@ -17,9 +17,9 @@ I finished my MSc in Bioinformatics at 25, published first-author research paper
 
 **LaunchPad exists because I wish someone had shown me the full map before I committed years to a single path.**
 
-This isn't a hypothetical project for a class, it's a program I'm building to launch in my community. While completing the Google Project Management Certificate, I applied every framework and tool to something I genuinely care about: making sure the next generation of young people gets to explore, experiment, and discover what truly resonates with them before choosing a direction.
+This isn't a hypothetical project for a class, it's a program I want to build someday. While completing the Google Project Management Certificate, I applied every framework and tool to something I genuinely care about: making sure the next generation of young people gets to explore, experiment, and discover what truly resonates with them before choosing a direction.
 
-**This repository showcases the complete project documentation** - every charter, budget, timeline, and stakeholder analysis I'd use to launch this initiative. It demonstrates my ability to take an idea from concept to executable plan, combining my passion for education with rigorous project management. The files in this repo (linked below) represent the level of strategic thinking and detailed planning I bring to any initiative.
+**This repository showcases the complete project documentation** - every charter, budget, timeline, and stakeholder analysis I'd use to launch this initiative. It demonstrates my ability to take an idea from concept to executable plan, combining my passion for education with project management. The files in this repo (linked below) represent the level of strategic thinking and detailed planning I bring to any initiative.
 
 ---
 Sneak peak for 2 possible logo designs! Which do you like better?
