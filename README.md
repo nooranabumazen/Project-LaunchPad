@@ -264,23 +264,23 @@ Developer  Engagement Placement  Coord   Facilitators
 This project showcases proficiency in:
 
 ### Hard Skills
-- 📊 **Strategic Planning:** OKR framework, SMART goals
-- 📅 **Schedule Management:** Gantt charts, critical path analysis
-- 💵 **Budget Management:** Cost estimation, variance analysis
-- 📋 **Scope Management:** WBS creation, requirements gathering
-- 👥 **Stakeholder Management:** Power-interest analysis, RACI matrices
-- ⚠️ **Risk Management:** Risk registers, mitigation planning
-- 📣 **Communications Planning:** Multi-channel strategies
-- 📊 **Quality Management:** KPIs, success metrics, evaluation frameworks
+- **Strategic Planning:** OKR framework, SMART goals
+- **Schedule Management:** Gantt charts, critical path analysis
+- **Budget Management:** Cost estimation, variance analysis
+- **Scope Management:** WBS creation, requirements gathering
+- **Stakeholder Management:** Power-interest analysis, RACI matrices
+- **Risk Management:** Risk registers, mitigation planning
+- **Communications Planning:** Multi-channel strategies
+- **Quality Management:** KPIs, success metrics, evaluation frameworks
 
 ### Soft Skills
-- 🤝 **Cross-functional Collaboration:** Coordinating diverse team members
-- 💬 **Stakeholder Communication:** Tailored messaging for different audiences
-- 🎯 **Problem-Solving:** Proactive risk identification and response
-- 📈 **Data-Driven Decision Making:** Metrics-based evaluation
-- 🔄 **Adaptability:** Balancing Agile and Waterfall approaches
-- 🎨 **Attention to Detail:** Comprehensive documentation
-- 👁️ **Strategic Thinking:** Alignment with organizational mission
+- **Cross-functional Collaboration:** Coordinating diverse team members
+- **Stakeholder Communication:** Tailored messaging for different audiences
+- **Problem-Solving:** Proactive risk identification and response
+- **Data-Driven Decision Making:** Metrics-based evaluation
+- **Adaptability:** Balancing Agile and Waterfall approaches
+- **Attention to Detail:** Comprehensive documentation
+- **Strategic Thinking:** Alignment with organizational mission
 
 ### Tools & Technologies
 - **Project Management:** Asana, Google Workspace
