@@ -327,10 +327,10 @@ The Google PM Certificate coursework covered:
 ## 🚀 Future Enhancements
 
 ### Scalability Opportunities
-- 📱 **Digital Platform:** Mobile app for program delivery
-- 🌍 **Geographic Expansion:** Replicate in other communities
-- 🤖 **AI Integration:** Personalized career matching algorithms
-- 📊 **Data Analytics Dashboard:** Real-time program monitoring
+- **Digital Platform:** Mobile app for program delivery
+- **Geographic Expansion:** Replicate in other communities
+- **AI Integration:** Personalized career matching algorithms
+- **Data Analytics Dashboard:** Real-time program monitoring
 
 ### Continuous Improvement
 - Quarterly retrospectives with team and stakeholders
