@@ -5,7 +5,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Planning%20Phase-blue)
 ![Timeline](https://img.shields.io/badge/Duration-7%20Months-green)
 ![Methodology](https://img.shields.io/badge/Methodology-Agile-orange)
-![Certificate](https://img.shields.io/badge/Google%20PM%20Certificate-In%20Progress-red)
+![Certificate](https://img.shields.io/badge/Google%20PM%20Certificate-%20Certified-green)
 
 </div>
 
