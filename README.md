@@ -192,11 +192,11 @@ To empower youth participants with the knowledge, experiences, and confidence ne
                         ↓
            Program Director (Project Lead)
                         ↓
-    ├─────────┬─────────├─────────┬─────────┐
-    │         │         │         │         │
-Curriculum  Youth    Volunteer  Admin   Workshop
-Developer  Engagement Placement  Coord   Facilitators
-           Specialist Coord
+    ├───────────┬──────────├───────────┬───────────┐
+    │           │          │           │           │
+Curriculum   Youth     Volunteer    Admin      Workshop
+Developer  Engagement  Placement    Coord    Facilitators
+           Specialist    Coord
 ```
 
 ### RACI Framework Implementation
