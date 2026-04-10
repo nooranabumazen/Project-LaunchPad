@@ -96,10 +96,10 @@ To empower youth participants with the knowledge, experiences, and confidence ne
 **This is an original project concept** that I'm actively planning to launch. I've applied industry-standard project management methodologies learned through the Google Project Management Certificate to bring this vision to life.
 
 ### Core PM Methodologies Applied
-- ✅ **Waterfall Planning** for curriculum development and stakeholder management
-- ✅ **Agile Principles** for iterative workshop delivery and continuous feedback
-- ✅ **Lean Approach** for resource optimization and waste reduction
-- ✅ **Six Sigma Thinking** for quality control in program delivery
+-  **Waterfall Planning** for curriculum development and stakeholder management
+-  **Agile Principles** for iterative workshop delivery and continuous feedback
+-  **Lean Approach** for resource optimization and waste reduction
+-  **Six Sigma Thinking** for quality control in program delivery
 
 ### Project Management Triangle
 - **Scope:** 8-10 workshop modules, 15+ partnerships, 25-30 participants
@@ -297,22 +297,22 @@ This project showcases proficiency in:
 
 The Google PM Certificate coursework covered:
 
-1. ✅ **Foundations of Project Management**
+1.  **Foundations of Project Management**
    - Project lifecycle, methodologies, organizational structures
    
-2. ✅ **Project Initiation: Starting a Successful Project**
+2.  **Project Initiation: Starting a Successful Project**
    - Stakeholder analysis, project charters, goal-setting
    
-3. ✅ **Project Planning: Putting It All Together**
+3.  **Project Planning: Putting It All Together**
    - WBS, budgeting, risk management, communication planning
    
-4. ✅ **Project Execution: Running the Project**
+4.  **Project Execution: Running the Project**
    - Quality management, team dynamics, data-driven decisions
    
-5. ✅ **Agile Project Management**
+5.  **Agile Project Management**
    - Scrum, Kanban, iterative development
    
-6. ✅ **Capstone: Applying Project Management**
+6.  **Capstone: Applying Project Management**
    - Real-world application of all learned concepts (different project)
 
 ### Key Takeaways Applied to LaunchPad
