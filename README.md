@@ -298,22 +298,22 @@ This project showcases proficiency in:
 The Google PM Certificate coursework covered:
 
 1.  **Foundations of Project Management**
-   - Project lifecycle, methodologies, organizational structures
+    Project lifecycle, methodologies, organizational structures
    
 2.  **Project Initiation: Starting a Successful Project**
-   - Stakeholder analysis, project charters, goal-setting
+    Stakeholder analysis, project charters, goal-setting
    
 3.  **Project Planning: Putting It All Together**
-   - WBS, budgeting, risk management, communication planning
+    WBS, budgeting, risk management, communication planning
    
 4.  **Project Execution: Running the Project**
-   - Quality management, team dynamics, data-driven decisions
+    Quality management, team dynamics, data-driven decisions
    
 5.  **Agile Project Management**
-   - Scrum, Kanban, iterative development
+    Scrum, Kanban, iterative development
    
 6.  **Capstone: Applying Project Management**
-   - Real-world application of all learned concepts (different project)
+    Real-world application of all learned concepts (different project)
 
 ### Key Takeaways Applied to LaunchPad
 - Importance of stakeholder buy-in early in project lifecycle
